@@ -1,0 +1,162 @@
+
+
+ .communities {
+    padding: 10px;
+
+  }
+  .communities h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .communities-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-right:10px;
+  }
+  
+  .community {
+    box-shadow: 12px 17px 60px 0px #00000040;
+    width: 391px;
+    height : 552px;
+    top: 285px;
+    left: 322px;
+    padding: 0%;
+    margin-bottom: 10px;
+    margin-left:0px;
+    margin-right:10px;
+    display: flex;
+    flex-direction: column;
+
+  }
+  .community2 {
+    box-shadow: 12px 17px 60px 0px #00000040;
+    width: 391px;
+    height : 552px;
+    top: 285px;
+    left: 322px;
+    padding: 0%;
+    margin-bottom: 30px;
+    margin-right:5px;
+    margin-left:0px;
+    display: flex;
+    flex-direction: column;
+
+  }
+  
+  .community-image {
+    width: 391px;
+    height: 292px;
+    top: 897px;
+    left: 765px;
+    object-fit: cover;
+  }
+  .community-image2 {
+    width: 391px;
+    height: 552px;
+    top: 1909px;
+    left: 764px;
+    object-fit: cover;
+    
+
+  }
+  
+  .h22 {
+    text-align: center;
+    margin-bottom: 10px;
+    top: 183px;
+    left: 760.54px;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 51px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #887C68;
+
+  }
+
+  .community h3 {
+    
+    font-family: "Martel Sans", sans-serif;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: center;
+
+  }
+
+
+  .community h4 {
+    
+    font-family: "Open Sans", sans-serif;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #887C68;
+
+   
+  }
+
+  
+  .community p {
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #887C68;
+
+  }
+
+  .text-overlay {
+  
+    font-family: "Martel Sans", sans-serif;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: rgb(224, 42, 42);
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .head-text {
+    position: relative;
+ }
+ .text-on-image {
+  color: rgb(224, 42, 42);
+   position: absolute;
+   left:15%;
+   right:15%;
+   bottom: 15%;
+
+
+   font-family: "Martel Sans", sans-serif;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: rgb(255, 255, 255);
+ }
+ 
+  
+
+
+ 
+
+
+
+
+
+
+  
+  
+
